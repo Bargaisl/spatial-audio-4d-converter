@@ -22,8 +22,8 @@ Digital Signal Processing (DSP) Python script for converting standard audio trac
 
 ### Quick Start
 ```bash
-git clone https://github.com/Bargaisl/spatial-audio-4d-converter.git
-cd spatial-audio-4d-converter
+git clone https://github.com/Bargaisl/audio-4d-conv.git
+cd audio-4d-conv
 pip install pydub numpy scipy
 python 4d_audio_converter.py
 ```
@@ -52,8 +52,8 @@ Licensed under the [MIT License](LICENSE).
 
 ### Запуск
 ```bash
-git clone https://github.com/Bargaisl/spatial-audio-4d-converter.git
-cd spatial-audio-4d-converter
+git clone https://github.com/Bargaisl/audio-4d-conv.git
+cd audio-4d-conv
 pip install pydub numpy scipy
 python 4d_audio_converter.py
 ```
